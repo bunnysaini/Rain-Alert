@@ -3,7 +3,7 @@ bunnysaini/Rain-Alert
 
 
 ## Features
-This program sends a message on your mobile number to notify you of anticipated rain chances.
+This program sends a message on your mobile number to notify you of anticipated rain chances using [OpenWeather API](https://openweathermap.org/api)
 
 ## Instructions to Use
 - Create a Trial Account on [Twilio](https://www.twilio.com/) - to Send and receive messages with Messaging APIs
