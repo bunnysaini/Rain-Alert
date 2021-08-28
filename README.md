@@ -14,4 +14,4 @@ This program sends a message on your mobile number to notify you of anticipated 
 
 
 ## Result
-![alt text](example.JPEG)
+![alt text](example.jpeg)
